@@ -234,3 +234,12 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+#visual micro stuff
+/__vm/*
+
+#atmel studio stuff
+*.componentinfo.xml
+*.cppproj
+*.atsln
+
