@@ -240,6 +240,4 @@ _Pvt_Extensions
 
 #atmel studio stuff
 *.componentinfo.xml
-*.cppproj
-*.atsln
 
